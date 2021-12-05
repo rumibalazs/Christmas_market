@@ -1,0 +1,30 @@
+body
+{
+    background-image: url(kepek/vasar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#head
+{
+    background-color: #ff0000;
+    text-align: center;
+    color: #ffffff;
+}
+
+#center
+{
+    text-align: center;
+}
+
+#meret
+{
+    width: 350px;
+    height: 300px;
+}
+
+#white
+{
+    color: #ffffff;
+}
